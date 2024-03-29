@@ -1,6 +1,5 @@
 local gameid = game.PlaceID
-
+game.Players.LocalPlayer:Kick("Not Support;")
 if(gameid == ) then -- PlaceID
-funtion()
   -- script
 end
