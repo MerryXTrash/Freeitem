@@ -1,5 +1,5 @@
 local games = {
-    [5930525036] = 'https://raw.githubusercontent.com/ImNotFatBitch/case-fortune/main/case-fortune',
+    [11268121492] = '',
     [14087912623] = 'https://raw.githubusercontent.com/ImNotFatBitch/ConquerorChampionss/main/ConquerorChampions',
     [11430498851] = 'https://raw.githubusercontent.com/ImNotFatBitch/Buildingtowers/main/Buildingtowers',
     [14175228555] = 'https://raw.githubusercontent.com/ImNotFatBitch/Buildingtowers/main/Buildingtowers',
